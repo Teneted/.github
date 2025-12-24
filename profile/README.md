@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">Teneted, an organization initiated by [TT](https://github.com/Rz-c){target="_blank"}, upholds the core concept of serving players. We aim to build a harmonious player community by developing high-quality mods, plugins, and server software. Through continuous innovation, we meet diverse needs and create a vibrant community together.</p>
+<p align="center">Teneted, an organization initiated by - [<span target="_blank">TT</span>](https://github.com/Rz-c), upholds the core concept of serving players. We aim to build a harmonious player community by developing high-quality mods, plugins, and server software. Through continuous innovation, we meet diverse needs and create a vibrant community together.</p>
 
 
 ## :star: Main projects
