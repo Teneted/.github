@@ -1,6 +1,6 @@
 <p align="center">
   <img height="150px"
-    src="/img/logo.jpg"
+    src="/img/logo.png"
   />     
   <h1 align="center">Teneted</h1>
 </p>
